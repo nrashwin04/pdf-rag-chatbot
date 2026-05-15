@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+env/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# ChromaDB local storage
+chroma_db/
+*.sqlite3
+
+# Data
+data/
+*.pdf
+
+# OS
+.DS_Store
+Thumbs.db

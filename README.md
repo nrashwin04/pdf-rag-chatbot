@@ -12,7 +12,7 @@ of LLM backend — run locally for free with Ollama or use the Claude API.
 
 > Upload any PDF → ask questions → get grounded answers with source citations
 
-![demo placeholder](assets/demo1.png)
+![Examples](demo1.png)
 
 ---
 

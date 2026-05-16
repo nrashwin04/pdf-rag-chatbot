@@ -8,7 +8,9 @@ of LLM backend — run locally for free with Ollama or use the Claude API.
 
 ---
 
-## Demo
+## Live Demo
+ 
+👉 [Try it on Streamlit](niwssaragpdf.streamlit.app)
 
 > Upload any PDF → ask questions → get grounded answers with source citations
 

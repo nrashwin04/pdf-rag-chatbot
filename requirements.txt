@@ -9,3 +9,4 @@ langchain-text-splitters
 chromadb
 sentence-transformers
 pypdf
+protobuf<4.21.0
